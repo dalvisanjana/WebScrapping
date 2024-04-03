@@ -13,15 +13,7 @@ Python 3.x
 BeautifulSoup library
 Requests library
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/username/Amazon-Web-Scraping.git
 
-Install dependencies:
-Copy code
-pip install beautifulsoup4 requests
 Usage
 Navigate to the project directory.
 Run the script using Python:
